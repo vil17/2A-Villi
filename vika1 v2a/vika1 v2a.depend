@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512141999 source:c:\users\villi\dropbox\skólagit\remake\2a\vika1 v2a\main.cpp
+	<iostream>
+	"Superhero.h"
+	<fstream>
+
+1512135750 c:\users\villi\dropbox\skólagit\remake\2a\vika1 v2a\include\superhero.h
+	<string>
+	<iostream>
+
+1512142345 source:c:\users\villi\dropbox\skólagit\remake\2a\vika1 v2a\src\superhero.cpp
+	"Superhero.h"
+
